@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react_project_2-bnb-clone/static/css/main.1477d745.css",
+    "main.js": "/react_project_2-bnb-clone/static/js/main.1c8eae5a.js",
+    "static/js/787.a1f81113.chunk.js": "/react_project_2-bnb-clone/static/js/787.a1f81113.chunk.js",
+    "index.html": "/react_project_2-bnb-clone/index.html",
+    "main.1477d745.css.map": "/react_project_2-bnb-clone/static/css/main.1477d745.css.map",
+    "main.1c8eae5a.js.map": "/react_project_2-bnb-clone/static/js/main.1c8eae5a.js.map",
+    "787.a1f81113.chunk.js.map": "/react_project_2-bnb-clone/static/js/787.a1f81113.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1477d745.css",
+    "static/js/main.1c8eae5a.js"
+  ]
+}
